@@ -5,7 +5,7 @@ I’m **Natasha Akali** — turning ideas into products that people actually use
 - 🧠 Interests: AI/ML, full-stack apps, and security  
 - 💬 Ask me about: product ideation → engineering → shipping
 - 👯 I’m looking to collaborate on AI agents, lightweight ML tools, and practical products that help people.
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nikkiakali) · ✉️ nikki.akali@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/natashaakali/) · ✉️ nikki.akali@gmail.com
 
 ---
 
@@ -32,7 +32,7 @@ I’m **Natasha Akali** — turning ideas into products that people actually use
 ---
 
 ## 📫 Let’s connect
-[LinkedIn](https://www.linkedin.com/in/nikkiakali) • [Email](mailto:nikki.akali@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/natashaakali/) • [Email](mailto:nikki.akali@gmail.com)
 
 
 <!--
