@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I’m **Natasha Akali** — turning ideas into products that people actually use.  
-- 🔭 Currently building: **Pocket LLM** – lightweight tools for training and running small LLMs locally  
+- 🔭 Currently building: **Pocket LLM** – lightweight tools for training and running small-scale LLMs locally  
 - 🧠 Interests: Building AI agents, ML systems, and full-stack products at the intersection of software and product engineering  
 - 💬 Ask me about: product ideation → engineering → shipping
 - 👯 I’m looking to collaborate on AI agents, lightweight ML tools, and practical products that help people.
@@ -20,7 +20,7 @@ I’m **Natasha Akali** — turning ideas into products that people actually use
   *Lightweight, simple, and keeps your job search organized without spreadsheets.*
 
 - **[Pocket LLM](https://github.com/nikkiakali/pocket-llm)** *(in progress)*  
-  Personal playground for training and running small LLMs on local devices.  
+  Personal playground for training and running small-scale LLMs on local devices.  
   *Experimenting with efficiency and accessibility of AI models.*
 
 ---
