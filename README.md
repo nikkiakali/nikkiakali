@@ -1,4 +1,39 @@
-## Hi there 👋
+# Hi there 👋
+
+I’m **Natasha Akali** — turning ideas into products that people actually use.  
+- 🔭 Currently building: **Pocket LLM** – lightweight tools for training and running small LLMs locally  
+- 🧠 Interests: AI/ML, full-stack apps, and security  
+- 💬 Ask me about: product ideation → engineering → shipping
+- 👯 I’m looking to collaborate on AI agents, lightweight ML tools, and practical products that help people.
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nikkiakali) · ✉️ nikki.akali@gmail.com
+
+---
+
+## 🚀 Featured Projects
+
+- **[Resume Assistant](https://github.com/nikkiakali/resume-assistant)**  
+  AI-powered tool that tailors resumes to job descriptions using LLMs.  
+  *Built with Python + React · Helps candidates instantly optimize applications.*
+
+- **[Job Tracker Chrome Extension](https://github.com/nikkiakali/job-tracker)**  
+  Browser extension to capture and organize job applications directly from the sites you browse.  
+  *Lightweight, simple, and keeps your job search organized without spreadsheets.*
+
+- **[Pocket LLM](https://github.com/nikkiakali/pocket-llm)** *(in progress)*  
+  Personal playground for training and running small LLMs on local devices.  
+  *Experimenting with efficiency and accessibility of AI models.*
+
+---
+
+## 🧰 Tech I use
+`Python` · `JavaScript` · `React` · `Flask/FastAPI` · `MongoDB` · `PostgreSQL` ·  
+`Docker` · `Redis` · `Chrome APIs` · `GitHub Actions`
+
+---
+
+## 📫 Let’s connect
+[LinkedIn](https://www.linkedin.com/in/nikkiakali) • [Email](mailto:nikki.akali@gmail.com)
+
 
 <!--
 **nikkiakali/nikkiakali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
