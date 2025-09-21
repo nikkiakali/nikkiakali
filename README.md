@@ -2,7 +2,7 @@
 
 I’m **Natasha Akali** — turning ideas into products that people actually use.  
 - 🔭 Currently building: **Pocket LLM** – lightweight tools for training and running small LLMs locally  
-- 🧠 Interests: AI/ML, full-stack apps, and security  
+- 🧠 Interests: Building AI agents, ML systems, and full-stack products at the intersection of software and product engineering  
 - 💬 Ask me about: product ideation → engineering → shipping
 - 👯 I’m looking to collaborate on AI agents, lightweight ML tools, and practical products that help people.
 - 🌐 [LinkedIn](https://www.linkedin.com/in/natashaakali/) · ✉️ nikki.akali@gmail.com
