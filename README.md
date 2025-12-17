@@ -15,10 +15,6 @@ I’m **Natasha Akali** — turning ideas into products that people actually use
   AI-powered tool that tailors resumes to job descriptions using LLMs.  
   *Built with Python + React · Helps candidates instantly optimize applications.*
 
-- **[Job Tracker Chrome Extension](https://github.com/nikkiakali/chrome-job-tracker)**  
-  Browser extension to capture and organize job applications directly from the sites you browse.  
-  *Lightweight, simple, and keeps your job search organized without spreadsheets.*
-
 - **[Pocket LLM](https://github.com/nikkiakali/pocket-llm)**
   Personal playground for training and running small-scale LLMs on local devices.  
   *Experimenting with efficiency and accessibility of AI models.*
