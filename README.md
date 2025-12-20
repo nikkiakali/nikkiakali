@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I’m **Natasha Akali** — turning ideas into products that people actually use.  
-- 🔭 Currently building:  **Celiac Disease Dining Companion** – AI-powered app for safer dining with celiac disease 
+- 🔭 Currently building:  **Job Tracker** – AI-powered platform that automatically tracks job application status from emails 
 - 🧠 Interests: Building AI agents, ML systems, and full-stack products at the intersection of software and product engineering  
 - 💬 Ask me about: product ideation → engineering → shipping
 - 👯 I’m looking to collaborate on AI agents, lightweight ML tools, and practical products that help people.
