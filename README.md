@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I’m **Natasha Akali** — turning ideas into products that people actually use.  
-- Currently building:  **Job Tracker** – AI-powered platform that tracks job application status from emails
+I’m **Natasha Akali**, turning ideas into products that people actually use.  
+- Currently building:  **Job Tracker**, an AI-powered platform that tracks job application status from emails
 - Recent work: private second brain, support insights agent at Microsoft, and a lightweight GPT-style model built from scratch
 - Interests: Building AI agents, ML systems, and full-stack products at the intersection of software and product engineering  
 - Ask me about: turning ambiguous user pain into system design, evals, and shipped products
