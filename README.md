@@ -1,15 +1,16 @@
 # Hi there 👋
 
 I’m **Natasha Akali** — turning ideas into products that people actually use.  
-- 🔭 Currently building:  **Job Tracker** – AI-powered platform that automatically tracks job application status from emails 
-- 🧠 Interests: Building AI agents, ML systems, and full-stack products at the intersection of software and product engineering  
-- 💬 Ask me about: product ideation → engineering → shipping
-- 👯 I’m looking to collaborate on AI agents, lightweight ML tools, and practical products that help people.
-- 🌐 [LinkedIn](https://www.linkedin.com/in/natashaakali/) · ✉️ nikki.akali@gmail.com
+- Currently building:  **Job Tracker** – AI-powered platform that tracks job application status from emails
+- Recent work: private second brain, support insights agent at Microsoft, and a lightweight GPT-style model built from scratch
+- Interests: Building AI agents, ML systems, and full-stack products at the intersection of software and product engineering  
+- Ask me about: turning ambiguous user pain into system design, evals, and shipped products
+- I’m looking to collaborate on practical AI tools, agent workflows, and products that help people move faster
+- [LinkedIn](https://www.linkedin.com/in/natashaakali/) · nikki.akali@gmail.com
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **[Resume Assistant](https://github.com/nikkiakali/personalized-resume-assistant)**  
   AI-powered tool that tailors resumes to job descriptions using LLMs.  
@@ -21,27 +22,12 @@ I’m **Natasha Akali** — turning ideas into products that people actually use
 
 ---
 
-## 🧰 Tech I use
-`Python` · `JavaScript` · `React` · `Flask/FastAPI` · `MongoDB` · `PostgreSQL` ·  
-`Docker` · `Redis` · `Chrome APIs` · `GitHub Actions`
+## Tech I use
+`Python` · `JavaScript` · `TypeScript` · `React` · `FastAPI` · `Node.js` · `MongoDB` · `PostgreSQL` ·  
+`Docker` · `Azure` · `OpenAI API` · `Anthropic API`
 
 ---
 
-## 📫 Let’s connect
+## Let’s connect
 [LinkedIn](https://www.linkedin.com/in/natashaakali/) • [Email](mailto:nikki.akali@gmail.com)
 
-
-<!--
-**nikkiakali/nikkiakali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
